@@ -36,7 +36,7 @@
 
 /* Div Content */
 .content {
-    background-image: linear-gradient(to bottom, #F49F05, white);
+    background-image: linear-gradient(to bottom, #1E90FF, white);
     margin-top: -60px;
 }
 
@@ -79,4 +79,11 @@
     width: 600px;
     margin: auto;
     font-size: px;
+}
+
+
+/* Div Content My Project */
+.content-my {
+    background-image: linear-gradient(to bottom, #1E90FF, white);
+    margin-top: -5px;
 }
